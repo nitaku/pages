@@ -1,3 +1,3 @@
 # Test
 
-Bla bla blero
+Bla bla [blero](subpage)
