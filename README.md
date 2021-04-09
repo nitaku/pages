@@ -1,3 +1,5 @@
 # Test
 
-Bla bla [blero](subpage)
+Bla bla blero
+[Subpage in folder](subpage)
+[Test page as HTML](test.html)
